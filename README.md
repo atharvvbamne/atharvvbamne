@@ -5,10 +5,7 @@
 - 👯 I'm looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about Learning Resources
 - 📫 How to reach me: atharvabamne910@gmail.com
-
-
-###Connect with me
-
+- 
   ### Connect with me
 
 <a href = "https://www.linkedin.com/in/atharvv/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
