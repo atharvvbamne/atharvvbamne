@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Atharv Bamne 👋
 
 - 🏫 I have pursed B.E. in Electronics and Telecommunication
 - 🌱 I’m currently learning Python.
