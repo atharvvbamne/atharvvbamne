@@ -20,7 +20,7 @@
 ---
 
 ### 💼 Work Experience:
-- **Senior Analyst** – Capgemini *(09/2022 - Present)*  
+- **Associate Consultant** – Capgemini *(09/2022 - Present)*  
   - Working on **ETL, Power BI, SQL, and Data Integration** projects.  
   - Designing **data pipelines, transformations, and visualization dashboards**.  
   - Collaborating with teams to optimize data solutions.  
